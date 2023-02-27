@@ -9,6 +9,7 @@ url="https://github.com/UaiSO21/uaiso-grub-themes"
 pkgdesc="Grub theme UaiSO Evolve Orion"
 source=("git+https://github.com/UaiSO21/uaiso-grub-themes.git")
 md5sums=(SKIP)
+install=${pkgname}.install
 
 
 package() {
